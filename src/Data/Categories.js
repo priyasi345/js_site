@@ -1,0 +1,31 @@
+const Categories = [
+  {
+    category: "Data Hacking",
+    value: 9,
+  },
+  { category: "Data Science", value: 10 },
+  { category: "Artificial Intelligence", value: 11 },
+  { category: "Machine Learning", value: 12 },
+  { category: "Deep Learning", value: 13 },
+  { category: "Computer Vision", value: 14 },
+  { category: "Natural Language Processing", value: 15 },
+  { category: "Reinforcement Learning", value: 16 },
+  { category: "Python", value: 17 },
+  { category: "Gaming", value: 18 },
+  { category: "Mathematics", value: 19 },
+  { category: "Statistics", value: 20 },
+  { category: "Big Data", value: 21 },
+  { category: "Data Analytics", value: 22 },
+  { category: "Psychology", value: 23 },
+  { category: "Politics", value: 24 },
+  // { category: "Art", value: 25 },
+  { category: "Human Brain", value: 26 },
+  { category: "Problem Solving", value: 27 },
+  { category: "Visualization", value: 28 },
+  { category: "Algorithms", value: 29 },
+  { category: "Business Intelligence", value: 30 },
+  { category: "Quantum Machine Learning", value: 31 },
+  { category: "Information Technology", value: 32 },
+];
+
+export default Categories;
